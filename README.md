@@ -3,7 +3,7 @@
 Live Demo :-
 https://priyankakabariya.github.io/TicTacToe-1/Tictac.html
 
-Technologies :- JavaScript
+Technologies :- JavaScript, HTML, CSS
 
 -> Tic tac toe is an amazing and easily expandable project. Let players choose their symbol.
 
